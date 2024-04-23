@@ -48,6 +48,7 @@ public class ArrayListDemo {
 		
 		arrayListDemo.others();
 		arrayListDemo.foreach();
+		//comment
 	}
 
 }
